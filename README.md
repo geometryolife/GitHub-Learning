@@ -7,3 +7,5 @@ Git 教程
 ## Feature-A
 
 ## Fix-B
+
+## Feature-C
