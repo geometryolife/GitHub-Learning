@@ -11,3 +11,13 @@ Git 教程
 ## Feature-C
 
 ## Feature-D
+
+## LazyGit
+new changes
+new changes
+new changes
+new changes
+new changes
+new changes
+new changes
+
